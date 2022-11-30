@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-29T18:18:17 IST" name="Default suite" finished-at="2022-11-29T18:18:31 IST" duration-ms="13747">
+    <groups>
+    </groups>
+    <test started-at="2022-11-29T18:18:17 IST" name="Default test" finished-at="2022-11-29T18:18:31 IST" duration-ms="13747">
+      <class name="com.Testpages.AppointmentpriorityTest">
+        <test-method is-config="true" signature="Launchapplication()[pri:0, instance:com.Testpages.AppointmentpriorityTest@4659191b]" started-at="2022-11-29T18:18:17 IST" name="Launchapplication" finished-at="2022-11-29T18:18:22 IST" duration-ms="4357" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launchapplication -->
+        <test-method signature="verifyformdetails()[pri:0, instance:com.Testpages.AppointmentpriorityTest@4659191b]" started-at="2022-11-29T18:18:22 IST" name="verifyformdetails" finished-at="2022-11-29T18:18:31 IST" duration-ms="9335" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyformdetails -->
+      </class> <!-- com.Testpages.AppointmentpriorityTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
